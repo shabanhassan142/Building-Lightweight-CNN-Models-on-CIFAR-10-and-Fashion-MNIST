@@ -36,8 +36,8 @@ McNemar's statistical significance test confirms improvements are genuine (p < 0
 - Label smoothing (epsilon=0.1) and adaptive dropout scheduling (0.4 to 0.2)
 
 ## Repository Structure
-├── Implementation.ipynb   # Full implementation: reproduction + improved model
-├── report_final.tex       # LaTeX source of the report
+├── Implementation.ipynb  
+├── report_final.tex     
 └── README.md
 
 ## How to Run
