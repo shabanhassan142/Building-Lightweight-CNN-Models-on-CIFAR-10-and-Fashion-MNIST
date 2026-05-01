@@ -37,7 +37,7 @@ McNemar's statistical significance test confirms improvements are genuine (p < 0
 
 ## Repository Structure
 ├── Implementation.ipynb  
-├── report_final.tex     
+├── latex_report.pdf    
 └── README.md
 
 ## How to Run
